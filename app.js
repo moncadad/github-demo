@@ -1,6 +1,7 @@
 const circle = document.querySelector(".wrapper");
 const surprise = document.querySelector(".surprise");
 console.log('hi cutie');
+console.log('hola comadres');
 circle.addEventListener("click", handleClick);
 
 function handleClick() {
